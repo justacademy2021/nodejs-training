@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Master backend development with Node.js Training at JustAcademy. Learn Express, MongoDB, REST APIs, and deploy real-world web apps. Hands-on projects, expert trainers, and job support included." />
+  <meta name="keywords" content="Node.js Training, Backend Development, Learn Node, ExpressJS, MongoDB, REST APIs, JustAcademy, Web Development Course, NodeJS Certification, JavaScript Backend" />
+  <meta name="author" content="JustAcademy" />
+  <title>Node.js Training - JustAcademy | Backend Development with Node & Express</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f0f8ff;
+      color: #333;
+    }
+    header {
+      background-color: #3c873a;
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2em;
+    }
+    section {
+      max-width: 900px;
+      margin: 30px auto;
+      background: white;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+    h2 {
+      color: #3c873a;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .btn {
+      display: inline-block;
+      padding: 12px 24px;
+      background-color: #4caf50;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+      margin-top: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #3c873a;
+      color: white;
+      margin-top: 40px;
+    }
+    a {
+      color: #fff;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🧩 Node.js Training - JustAcademy</h1>
+  <p>Build powerful backend systems using Node.js, Express, and MongoDB</p>
+</header>
+
+<section>
+  <h2>📚 What You'll Learn</h2>
+  <ul>
+    <li>JavaScript for backend development</li>
+    <li>Node.js runtime and core modules</li>
+    <li>Building RESTful APIs with Express</li>
+    <li>Connecting and querying MongoDB</li>
+    <li>User authentication & middleware</li>
+    <li>Deploying backend apps to the cloud</li>
+  </ul>
+
+  <h2>💡 Why Choose JustAcademy?</h2>
+  <ul>
+    <li>✅ Experienced backend developers as trainers</li>
+    <li>✅ Real-time project-based learning</li>
+    <li>✅ Resume & interview prep with placement support</li>
+    <li>✅ Online & offline batch options</li>
+    <li>✅ Certificate of Completion</li>
+  </ul>
+
+  <h2>⏳ Duration & Format</h2>
+  <ul>
+    <li>6 Weeks of intensive training</li>
+    <li>Flexible batch timings</li>
+  </ul>
+
+  <a class="btn" href="https://www.justacademy.co/course-detail/node-js-training" target="_blank">🔗 Enroll Now</a>
+</section>
+
+<footer>
+  📞 Connect with Us — Visit: <a href="https://www.justacademy.co">www.justacademy.co</a><br/>
+  © 2025 JustAcademy. All rights reserved.
+</footer>
+
+</body>
+</html>
